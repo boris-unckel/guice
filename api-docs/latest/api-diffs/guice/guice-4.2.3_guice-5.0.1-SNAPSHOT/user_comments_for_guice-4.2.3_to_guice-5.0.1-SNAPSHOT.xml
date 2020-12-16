@@ -471,6 +471,12 @@
   </text>
 </comment>
 <comment>
+  <identifier id="com.google.inject.spi.InjectionPoint.getAnnotations_added(java.lang.reflect.Field)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
   <identifier id="com.google.inject.spi.Message"/>
   <text>
     InsertCommentsHere
